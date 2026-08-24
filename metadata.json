@@ -1,0 +1,6 @@
+{
+  "name": "Student Analytics Dashboard",
+  "description": "A React.js Student Analytics Dashboard consuming the Student REST API with summary cards, course statistics, search, filtering, student records table, and visual marks chart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
